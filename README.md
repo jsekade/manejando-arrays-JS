@@ -1,1 +1,1 @@
-# manejando-arrays-JS
+# manejando-arrays-JS (sin bucles)
